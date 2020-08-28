@@ -1,0 +1,4 @@
+$dokka.format:gfm
+$dokka.linkExtension:md
+$dokka.location:com.squareup.sqldelight.sqlite.driver$asJdbcDriver(javax.sql.DataSource)com.squareup.sqldelight.sqlite.driver/javax.sql.-data-source/as-jdbc-driver.md
+com.squareup.sqldelight.sqlite.driver
