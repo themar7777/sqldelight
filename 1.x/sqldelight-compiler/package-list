@@ -17,3 +17,4 @@ com.squareup.sqldelight.core.lang.psi
 com.squareup.sqldelight.core.lang.util
 com.squareup.sqldelight.core.psi
 com.squareup.sqldelight.core.psi.impl
+timber.log
